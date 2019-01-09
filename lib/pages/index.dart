@@ -1,7 +1,7 @@
 library pages;
 
 // 核心页面集合
-export 'splash_page.dart';
+export 'common/splash_page.dart';
 export 'home/home_page.dart';
 export 'auth/login_page.dart';
 export 'auth/signin_page.dart';
