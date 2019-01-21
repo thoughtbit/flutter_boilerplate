@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'app.dart';
+import 'flutter_boilerplate_app.dart';
 
 // 入口
 void main() {
